@@ -1,1 +1,1 @@
-# payslip-and-quadratic
+# payroll-and-quadratic
